@@ -14,3 +14,4 @@ package-lock.json
 # Ignore build files (if applicable)
 dist/
 build/
+.vercel
